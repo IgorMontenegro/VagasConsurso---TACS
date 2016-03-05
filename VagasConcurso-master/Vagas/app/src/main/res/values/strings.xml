@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">Vagas Concursos UFG</string>
+    <string name="action_settings">Configuração</string>
+    <string name="warning_wait">Espere</string>
+    <string name="warning_receiving_data">Recebendo Dados</string>
+    <string name="title_activity_detail">Detalhes Concurso</string>
+    <string name="hello_world">Hello world!</string>
+    <string name="warning_no_connection">Sem conexão a internet</string>
+    <string name="label_datafim">Data Fim:  </string>
+    <string name="label_infolink">Informações</string>
+</resources>
